@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 <img align="center" src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' title="Steam" alt="https://github.com/jeanfma">
 <img align="center" src='https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white' title="Jogava CS..." alt="https://github.com/jeanfma">
 </div> -->
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
