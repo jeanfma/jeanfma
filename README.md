@@ -25,13 +25,9 @@ Here are some ideas to get you started:
 <img align="center" src='https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white' title="Jogava CS..." alt="https://github.com/jeanfma">
 </div> -->
   <br>
-  <div>
-    <img align="center" src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' title="Discord" alt="https://discord.gg/Y9vGv7gqZd" target="_blank"
-  </div>
-    
-     <a href="https://discord.gg/Y9vGv7gqZd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    
-      </div>
+<div>
+    <a href="https://discord.gg/Y9vGv7gqZd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
   
 
 
