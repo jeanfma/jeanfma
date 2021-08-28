@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div> -->
   
   <div>
-    <img align="center" src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' title="Discord" alt="https://discord.gg/Y9vGv7gqZd"
+    <img align="center" src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' title="Discord" alt="https://discord.gg/Y9vGv7gqZd" target="_blank"
   </div>
   
 
