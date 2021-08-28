@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   <div>
     <img align="center" src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' title="Discord" alt="https://discord.gg/Y9vGv7gqZd" target="_blank"
   </div>
+    
+     <a href="https://discord.gg/Y9vGv7gqZd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 
 
