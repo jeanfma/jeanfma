@@ -1,4 +1,4 @@
-### Hi there 👋 Bem vindo(a), Eu sou Jean Andrade!
+### Hi there 👋 Bem vindo(a)!
 
 <!--
 **jeanfma/jeanfma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
